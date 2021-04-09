@@ -11,7 +11,6 @@
 # Screenshots
 <p>
   <img src="app/screenshots/1.png" width="280"/>
-  <img src="app/screenshots/2.png" width="280"/>
   <img src="app/screenshots/3.png" width="280"/>
 </p>
 
