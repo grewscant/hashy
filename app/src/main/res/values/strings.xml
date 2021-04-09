@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hashy</string>
+
+    <!-- Main Activity Strings -->
+    <string name="til_input_label"> Input String </string>
+    <string name="actv_label"> Hashing Method </string>
+    <string name="til_output_label"> Output String </string>
+    <string name="btn_label"> Generate </string>
+
+    <string name="tv_gen_hash_label"> Hash </string>
+    <string name="tv_calc_hash_placeholder"> Your hash will appear here </string>
+    <string name="til_empty_input_error">Input string cannot be empty</string>
+</resources>
