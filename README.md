@@ -1,5 +1,9 @@
 # Hashy
 
+<p>
+  <img src="/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="120"/>
+</p>
+
 * An Android app that generates a hash for a given input string
 * You can choose between three hashing algorithms - MD5, SHA1, SHA256
 
