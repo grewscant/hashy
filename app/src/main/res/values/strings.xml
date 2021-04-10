@@ -6,8 +6,10 @@
     <string name="actv_label"> Hashing Method </string>
     <string name="til_output_label"> Output String </string>
     <string name="btn_label"> Generate </string>
-
     <string name="tv_gen_hash_label"> Hash </string>
     <string name="tv_calc_hash_placeholder"> Your hash will appear here </string>
     <string name="til_empty_input_error">Input string cannot be empty</string>
+    <string name="tv_info">Click the hash to copy it</string>
+    <string name="tv_made_by">Made with ❤️️ by Dan, Matt &amp; Gandharv</string>
+
 </resources>
